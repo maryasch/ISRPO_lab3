@@ -88,7 +88,7 @@ function createVertices(side: number): string {
 		{0, ${side}, ${side}},
 		{${side}, ${side}, ${side}},
 		{${side}, 0, ${side}},
-	}`;
+	};`;
 
 	return verticesString;
 }
