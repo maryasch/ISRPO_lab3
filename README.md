@@ -41,9 +41,11 @@
 ## Пример работы плагина
 
 Входные данные:
+
     int a = 5;
 
 Результат:
+
     int a = 5;
     std::vector<std::vector<double>> vertices =
         {
